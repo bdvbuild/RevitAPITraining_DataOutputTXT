@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+	<AddIn Type="Command">
+		<Assembly>"C:\Doc\RevitApi\RevitAPITraining_DataOutputTXT.dll"</Assembly>
+		<AddInId>270F82B8-7789-4E45-9DAD-35794442308F</AddInId>
+		<FullClassName>RevitAPITraining_DataOutputTXT.Main</FullClassName>
+		<VendorId>bdvbuild</VendorId>
+		<Text>4.1 Вывод информации о стенах в текстовый файл</Text>
+	</AddIn>
+</RevitAddIns>
